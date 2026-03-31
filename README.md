@@ -41,25 +41,11 @@ Gosto de transformar ideias em projetos funcionais, buscando unir interface, org
 </p>
 
 --
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nakasato181&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakasato181&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contato
 
 - **Email:** [joo.nakasato@gmail.com](mailto:joo.nakasato@gmail.com)
 
----
 
-## ✨ Objetivo
-
-Usar este perfil para apresentar minha trajetória, compartilhar projetos e registrar minha evolução como desenvolvedor, com foco principal em **criação web** e desenvolvimento de soluções práticas.
 
 <!--
 **Nakasato181/Nakasato181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
