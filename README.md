@@ -40,23 +40,7 @@ Gosto de transformar ideias em projetos funcionais, buscando unir interface, org
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
----
-
-## 📌 Projetos em destaque
-
-### 🎲 [Plataforma Virtual Voltada ao RPG](https://github.com/Nakasato181/PLATAFORMA-VIRTUAL-VOLTADA-AO-RPG)
-Projeto com foco em ambiente web/local, utilizando **Node.js**, com estrutura para hospedagem local e uso de dependências como **Express**, **Socket.io** e **Multer**.
-
-### 🌍 [Tradutor Simples](https://github.com/Nakasato181/Tradutor-Simples)
-Aplicação desenvolvida em **Python** com interface gráfica em **Tkinter**, voltada para tradução de textos entre múltiplos idiomas.
-
-### 🌱 [Projeto Horta Inteligente](https://github.com/Nakasato181/Projeto-Horta-Inteligente)
-Sistema com **ESP32** para monitoramento da umidade do solo em tempo real, com interface web e automação de irrigação.
-
-### 🎬 [Cadastro de Filmes - Dart](https://github.com/Nakasato181/cadastro-de-filmes---dart)
-Projeto inicial em **Dart / Flutter**, explorando construção de aplicações com foco em interface e organização de app.
-
----
+--
 
 ## 📈 GitHub Stats
 
